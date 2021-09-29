@@ -28,11 +28,11 @@
     "start": "npm run watch"
   },
   "devDependencies": {
-    "@takeshape/cli": "^5.28.0",
     "browser-sync": "^2.26.12",
     "eslint": "^5.16.0",
     "npm-run-all": "^4.1.5",
     "stylelint": "^9.10.1",
-    "stylelint-config-recommended": "^2.1.0"
+    "stylelint-config-recommended": "^2.1.0",
+    "@takeshape/cli": "^7.210.0"
   }
 }

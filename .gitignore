@@ -6,6 +6,8 @@
 .idea
 .netlify
 .tsgrc
+.takeshaperc
+takeshape-project.graphql
 build
 graphql.config.json
 node_modules
